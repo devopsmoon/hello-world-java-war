@@ -38,12 +38,12 @@
     <repository>
         <id>deployment</id>
         <name>release softx</name>
-        <url>http://13.235.27.217:8081/repository/MPH-Release/</url>
+        <url>http://13.235.76.29:8081/repository/MPH-Release/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>snapshot softx</name>
-        <url>http://13.235.27.217:8081/repository/MPH-Snapshot/</url>
+        <url>http://13.235.76.29:8081/repository/MPH-Snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
